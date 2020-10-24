@@ -1,6 +1,4 @@
-
-
-🧛‍♂️ Pre-procesamiento del texto, Modelo de LDA y Visualización de LDA
+# Pre-procesamiento del texto, Modelo de LDA y Visualización de LDA 🧛‍♂️ 
 
 En este repositorio la manera de procesar texto en formato csv el cual obtendremos una serie de procesos que nos ayudaran a ver mejor los datos desde Python. 🐍
 
