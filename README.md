@@ -2,7 +2,8 @@
 
 En este repositorio la manera de procesar texto en formato csv el cual obtendremos una serie de procesos que nos ayudaran a ver mejor los datos desde Python. 🐍
 
-🤡 Temas del taller.
+Temas del taller.
+
 
 👻 Punto 1:
 <br> a. Hacer pre-procesamiento del texto
