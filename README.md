@@ -13,6 +13,11 @@ Temas del taller.
 
 👻 Punto 3:
 <br> a. Visualización de LDA
-
+    
+.
+.
+.
+.
+.
 
 <br> 🦉 ¡Gracias por leerme! 🦉
